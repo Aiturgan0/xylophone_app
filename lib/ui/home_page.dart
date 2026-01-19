@@ -26,6 +26,7 @@ class HomePage extends StatelessWidget {
             fit: BoxFit.cover,
           ),
 
+          // Centered Play Button
           Center(
             child: ElevatedButton(
               onPressed: () {
